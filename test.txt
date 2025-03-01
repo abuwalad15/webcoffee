@@ -1,1 +1,1 @@
-test github pipeline
+test project automated pipeline
